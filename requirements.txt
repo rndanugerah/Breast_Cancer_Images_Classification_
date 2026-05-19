@@ -1,0 +1,12 @@
+# Core Web Application Framework
+streamlit>=1.35.0
+
+# Numerical Computing
+numpy>=1.24.0
+
+# Image Processing Libraries
+Pillow>=10.0.0
+opencv-python>=4.8.0.0
+
+# Deep Learning Framework
+tensorflow>=2.15.0
